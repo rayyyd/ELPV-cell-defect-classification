@@ -1,4 +1,4 @@
-AI Agent plays flappy bird game!
+Classification of defective cells from ELPV dataset using a novel method where a reinforcement-learning agent attempts to learn the optimal sequence for data input.
 
 Contents of agent.ipynb:
 
