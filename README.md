@@ -1,4 +1,4 @@
-# COMP9517-GROUP-11
+AI Agent plays flappy bird game!
 
 Contents of agent.ipynb:
 
